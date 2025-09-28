@@ -2,15 +2,9 @@
 
 ## Instructions, files, code for Lab 6.
 
-What if you aren't nearby the computer you need to work on?
+This repository shows a webpage made through HTML and JavaScrpit, where someone can turn on or off the lightbulb shown with the buttons given.
 
-Up until this point, our Lab activities have been accomplished by doing them on our laptops.
-
-In this activity we explore the concept of "servers."  Which typically aren't located where we are.
-
-We have to connect to them remotely
-
-This Lab explores that concept.
+The purpose of this lab was to practice and show certain concepts such as writing out HTML files along with Javascript, the terminal, and Github.
 
 
 
